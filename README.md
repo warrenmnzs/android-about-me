@@ -1,0 +1,2 @@
+# android-about-me
+An About Me app that teaches the basics of Layouts in Android from Lesson 2 of the Udacity course on <a href="https://classroom.udacity.com/courses/ud9012">Developing Android Apps with Kotlin</a>.
